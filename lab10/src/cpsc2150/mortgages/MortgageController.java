@@ -1,3 +1,7 @@
+/**
+ * Casey Hird and Shawn Picardy
+ */
+
 package cpsc2150.mortgages;
 
 public class MortgageController implements IMortgageController {
